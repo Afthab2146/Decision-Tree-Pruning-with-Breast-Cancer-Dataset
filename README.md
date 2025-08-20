@@ -1,7 +1,7 @@
 # Decision-Tree-Pruning-with-Breast-Cancer-Dataset
 Implementation of Decision Tree classification on the Breast Cancer dataset, comparing performance before and after cost-complexity pruning. Includes train/test accuracy, GridSearchCV tuning, and visualization of tree structures.
 
-# Decision Tree Pruning with Breast Cancer Dataset
+
 
 This project demonstrates **Decision Tree classification** on the popular **Breast Cancer dataset** using scikit-learn. The main focus is on **overfitting vs. generalization**, showcasing how **cost-complexity pruning** improves model performance.
 
